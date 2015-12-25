@@ -1,0 +1,71 @@
+.navbar {
+    padding: 1px 1px 1px 1px;
+}
+
+ul {
+    font-family: Arial, sans-serif;
+	font-size: 13px;
+}
+
+li {
+    color: #000;
+    list-style-type: none;
+    display:inline;
+    float: right;
+    padding: 8px;
+}
+
+li:hover {
+    text-decoration: underline;
+}
+
+#person {
+    margin-top: -8px;
+    border-radius: 100px;
+}
+
+#logo {
+    height: 92px;
+    width: 272px;
+}
+
+.google {
+    margin-top: 170px;
+    margin-left: 560px;
+}
+
+#searchbar {
+    margin-top: 20px;
+    margin-left: 470px;
+    height: 25px;
+    width: 440px;
+    font-size: 18px;
+}
+
+.buttons {
+    margin-top: 15px;
+    margin-right: 600px;
+    margin-left: 590px;
+}
+.footer {
+    background-color: #f2f2f2;
+    height: 41px;
+    width: 1442px;
+    position: fixed;
+    margin: 311px -10px;
+    clear: both;
+}
+
+.fleft {
+    margin-top: -0.1px ;
+    padding-left: 8px;
+    float: left;
+    position: fixed;
+}
+
+.fright {
+    margin-top: -0.1px ;
+    padding-right: 8px;
+    float: right;
+}
+
